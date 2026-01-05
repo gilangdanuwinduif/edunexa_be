@@ -1,7 +1,0 @@
-Langkah selanjutnya: Struktur dasar akademik sudah selesai. 
-Apakah Anda ingin lanjut ke bagian Presensi (Attendance) atau Manajemen Nilai (Grades)? 
-Keduanya akan sangat bergantung pada data SubjectAssignment ini.
-
-Apa yang ingin Anda lakukan selanjutnya?
-Saya bisa membantu Anda membuat Unit Test pertama untuk AuthService atau membantu menyusun koleksi 
-Postman JSON agar bisa langsung di-import. Mana yang lebih prioritas bagi Anda?
